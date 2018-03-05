@@ -4,19 +4,19 @@
 .. image:: https://coveralls.io/repos/pycontribs/activedirectory/badge.png?branch=master
         :target: https://coveralls.io/r/pycontribs/activedirectory
 
-.. image:: https://pypip.in/d/activedirectory/badge.png
+.. image:: https://img.shields.io/pypi/dm/activedirectory.svg
         :target: https://pypi.python.org/pypi/activedirectory/
 
-.. image:: https://pypip.in/v/activedirectory/badge.png
+.. image:: https://img.shields.io/pypi/v/activedirectory.svg
         :target: https://pypi.python.org/pypi/activedirectory/
 
 .. image:: https://pypip.in/egg/activedirectory/badge.png
         :target: https://pypi.python.org/pypi/activedirectory/
 
-.. image:: https://pypip.in/wheel/activedirectory/badge.png
+.. image:: https://img.shields.io/pypi/wheel/activedirectory.svg
         :target: https://pypi.python.org/pypi/activedirectory/
 
-.. image:: https://pypip.in/license/activedirectory/badge.png
+.. image:: https://img.shields.io/pypi/l/activedirectory.svg
         :target: https://pypi.python.org/pypi/activedirectory/
 
 activedirectory
